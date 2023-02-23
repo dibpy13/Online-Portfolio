@@ -92,8 +92,11 @@ body {
 }
 
 .headerContacts {
+    display: flex;
     align-items: center;
     padding: 50px auto;
+    background-color: yellow;
+    justify-content: center;
 }
 
 .insta {
